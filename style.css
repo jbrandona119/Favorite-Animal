@@ -7,6 +7,6 @@ body {
     color: #666;
 }
 
-h1 {
-    color: green;
+.picture {
+    border-radius: 50%;
 }
